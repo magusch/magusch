@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Maxim and my nickname is Magusch.
+
+I am a seasoned **Python** and **Ruby** developer with over 6 years of experience.
+
+### My links 
+
+- [linkendin](https://www.linkedin.com/in/magusch/)
+- [telegram](https://t.me/magusch/)
+
+
 <!--
 **magusch/magusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
