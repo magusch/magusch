@@ -8,6 +8,9 @@ I am a seasoned **Python** and **Ruby** developer with over 6 years of experienc
 
 - [linkendin](https://www.linkedin.com/in/magusch/)
 - [telegram](https://t.me/magusch/)
+- [CV Ruby](https://github.com/magusch/magusch/blob/main/CV_Gushchin_Ruby.pdf)
+- [CV Python](https://github.com/magusch/magusch/blob/main/CV_Python_Gushchin.pdf)
+
 
 
 <!--
